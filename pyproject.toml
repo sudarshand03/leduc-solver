@@ -1,0 +1,6 @@
+# pyproject.toml
+
+[build-system]
+# Minimum setuptools that implements PEP 660
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
